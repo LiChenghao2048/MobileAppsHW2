@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MobileAppsHW2</string>
+    <string name="find_your_brew">Find Your Brew</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="show_results">SHOW RESULTS</string>
+    <string name="search_by_beer_name">Search by beer name...</string>
+    <string name="brewed">Brewed</string>
+    <string name="to">to</string>
+    <string name="mm_yyyy">mm/yyyy</string>
+    <string name="high_point_beer">High-Point Beer?</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="invalid_date">Invalid Date</string>
+    <string name="forth_activity">Forth Activity</string>
+</resources>
